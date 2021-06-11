@@ -1,5 +1,5 @@
 # FlappyBirdKlonu
-- UNİTY ve C# kullanılarak geliştrilmiş Flappy Bird Klonudur.
+- UNİTY ve C# kullanılarak geliştirilmiş Flappy Bird Klonudur.
 - Oyunda bulunan özellikler :
   * Ekrana tıklayınca kuşun zıplaması
   * Kuşun kanat çırpması (bir animasyona sahip olması)
